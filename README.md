@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/premium-photo/digital-code-black-computer-screen_53876-19353.jpg" alt="Banner">
+<img src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg" alt="Banner">
 <h1 align="center">Hi 👋, I'm Bibaswan Chakma</h1>
 <h3 align="center">"Passionate Computer Science undergrad delving into the realm of Full Stack Development 💻 | Crafting innovative solutions one line of code at a time | Exploring the intersection of technology and creativity 🚀"</h3>
 
