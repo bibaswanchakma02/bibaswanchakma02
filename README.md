@@ -1,4 +1,4 @@
-![Banner](https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg)
+![Banner]([https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fdigital-code-black-computer-screen_2814215.htm&psig=AOvVaw1WxFW6d2hJ1o_W7xpf7DDD&ust=1715920630155000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiEq9askYYDFQAAAAAdAAAAABAJ))
 <h1 align="center">Hi 👋, I'm Bibaswan Chakma</h1>
 <h3 align="center">"Passionate Computer Science undergrad delving into the realm of Full Stack Development 💻 | Crafting innovative solutions one line of code at a time | Exploring the intersection of technology and creativity 🚀"</h3>
 
