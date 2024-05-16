@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg" alt="Banner">
+<img src="https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg" alt="Banner">
 <h1 align="center">Hi 👋, I'm Bibaswan Chakma</h1>
 <h3 align="center">"Passionate Computer Science undergrad delving into the realm of Full Stack Development 💻 | Crafting innovative solutions one line of code at a time | Exploring the intersection of technology and creativity 🚀"</h3>
 
