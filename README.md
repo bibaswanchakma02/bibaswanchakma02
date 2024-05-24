@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bibaswanchkz224@gmail.com**
 
-- ⚡ Fun fact **Debugging code like a detective solving a mystery - just call me Sherlock Holmescript!**
+- ⚡ Fun fact **If I hadn't been into Computer Science, I would have been a chef.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
